@@ -1,0 +1,352 @@
+/* Thank You Page */
+.thankyou-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #fef2f2 0%, #ffffff 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.thankyou-container {
+  max-width: 700px;
+  width: 100%;
+  position: relative;
+  z-index: 10;
+}
+
+/* Success Animation */
+.success-animation {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+  animation: bounceIn 0.6s ease;
+}
+
+@keyframes bounceIn {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.checkmark-circle {
+  width: 120px;
+  height: 120px;
+  background: linear-gradient(135deg, #10b981, #059669);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 10px 40px rgba(16, 185, 129, 0.3);
+  position: relative;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    box-shadow: 0 10px 40px rgba(16, 185, 129, 0.3);
+  }
+  50% {
+    box-shadow: 0 10px 60px rgba(16, 185, 129, 0.5);
+  }
+}
+
+.checkmark {
+  width: 50px;
+  height: 25px;
+  border-left: 6px solid #fff;
+  border-bottom: 6px solid #fff;
+  transform: rotate(-45deg);
+  animation: checkmark 0.5s ease 0.3s both;
+}
+
+@keyframes checkmark {
+  0% {
+    width: 0;
+    height: 0;
+  }
+  50% {
+    width: 50px;
+    height: 0;
+  }
+  100% {
+    width: 50px;
+    height: 25px;
+  }
+}
+
+/* Content */
+.thankyou-content {
+  background: #fff;
+  border-radius: 24px;
+  padding: 48px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  animation: slideUp 0.6s ease;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.thankyou-title {
+  font-size: 36px;
+  font-weight: 800;
+  color: #111827;
+  margin: 0 0 12px;
+  letter-spacing: -0.5px;
+}
+
+.thankyou-subtitle {
+  font-size: 18px;
+  color: #6b7280;
+  margin: 0 0 32px;
+}
+
+/* Order Details Card */
+.order-details-card {
+  background: linear-gradient(135deg, #f9fafb, #ffffff);
+  border: 2px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 32px;
+  text-align: left;
+}
+
+.order-header {
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.order-header h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #111827;
+  margin: 0;
+}
+
+.order-info {
+  display: grid;
+  gap: 16px;
+}
+
+.order-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 0;
+}
+
+.order-label {
+  font-size: 15px;
+  color: #6b7280;
+  font-weight: 500;
+}
+
+.order-value {
+  font-size: 16px;
+  color: #111827;
+  font-weight: 600;
+}
+
+.order-total {
+  font-size: 24px;
+  color: #dc2626;
+  font-weight: 800;
+}
+
+/* What's Next */
+.whats-next {
+  margin-bottom: 32px;
+  text-align: left;
+}
+
+.whats-next h3 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #111827;
+  margin: 0 0 20px;
+}
+
+.next-steps {
+  display: grid;
+  gap: 16px;
+}
+
+.step {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  padding: 16px;
+  background: #f9fafb;
+  border-radius: 12px;
+  border: 2px solid #f3f4f6;
+  transition: all 0.3s ease;
+}
+
+.step:hover {
+  background: #fef2f2;
+  border-color: #fecaca;
+  transform: translateX(4px);
+}
+
+.step-icon {
+  font-size: 32px;
+  flex-shrink: 0;
+}
+
+.step-text {
+  flex: 1;
+}
+
+.step-text strong {
+  display: block;
+  font-size: 16px;
+  color: #111827;
+  margin-bottom: 4px;
+}
+
+.step-text p {
+  font-size: 14px;
+  color: #6b7280;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Action Buttons */
+.thankyou-actions {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
+.btn-primary,
+.btn-secondary {
+  padding: 14px 32px;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: none;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #dc2626, #ef4444);
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.3);
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(220, 38, 38, 0.4);
+}
+
+.btn-secondary {
+  background: #fff;
+  color: #dc2626;
+  border: 2px solid #dc2626;
+}
+
+.btn-secondary:hover {
+  background: #fef2f2;
+  transform: translateY(-2px);
+}
+
+/* Redirect Notice */
+.redirect-notice {
+  font-size: 14px;
+  color: #9ca3af;
+  font-style: italic;
+}
+
+.redirect-notice strong {
+  color: #dc2626;
+  font-weight: 700;
+}
+
+/* Confetti Animation */
+.confetti {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.confetti-piece {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: -10px;
+  opacity: 0;
+  animation: confetti-fall 3s linear infinite;
+}
+
+@keyframes confetti-fall {
+  0% {
+    top: -10px;
+    opacity: 1;
+    transform: rotate(0deg);
+  }
+  100% {
+    top: 100vh;
+    opacity: 0;
+    transform: rotate(720deg);
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .thankyou-content {
+    padding: 32px 24px;
+  }
+
+  .thankyou-title {
+    font-size: 28px;
+  }
+
+  .thankyou-subtitle {
+    font-size: 16px;
+  }
+
+  .thankyou-actions {
+    flex-direction: column;
+  }
+
+  .btn-primary,
+  .btn-secondary {
+    width: 100%;
+  }
+
+  .checkmark-circle {
+    width: 100px;
+    height: 100px;
+  }
+
+  .checkmark {
+    width: 40px;
+    height: 20px;
+  }
+}

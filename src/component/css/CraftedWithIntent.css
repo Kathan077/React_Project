@@ -1,0 +1,69 @@
+.crafted-section {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #fff;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .crafted-title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    color: #1f2937;
+  }
+  
+  .crafted-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 100px;
+  }
+  
+  .crafted-card {
+    position: relative;
+    width: 360px;
+    height: 460px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    transition: transform 0.4s ease;
+  }
+  
+  .crafted-card:hover {
+    transform: scale(1.03);
+  }
+  
+  .crafted-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(85%);
+    transition: all 0.3s ease;
+  }
+  
+  .crafted-card:hover .crafted-img {
+    filter: brightness(70%);
+  }
+  
+  .crafted-overlay {
+    position: absolute;
+    bottom: 25px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: white;
+  }
+  
+  .crafted-sub {
+    font-size: 14px;
+    letter-spacing: 2px;
+    margin-bottom: 6px;
+    font-weight: 400;
+  }
+  
+  .crafted-text {
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  

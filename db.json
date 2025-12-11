@@ -1,0 +1,323 @@
+{
+  "product":[
+    {
+      "id": 1,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759570621_4035235.jpg?w=360&dpr=1.3",
+      "title": "Iron Man: Indie Arc Reactor",
+      "desc": "Super Oversized T-Shirts",
+      "price": "₹1599",
+      "category": "men"
+    },
+    {
+      "id": 2,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759819049_2772455.jpg?w=480&dpr=2",
+      "title": "Urban Blaze Legacy: Belgian Chocolate",
+      "desc": "Men Low Top Sneakers",
+      "price": "₹2599",
+      "category": "women"
+    },
+    {
+      "id": 3,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Top-souled-pick-top-selling-tiles-1_m75FIOh.jpg?w=360&dpr=2",
+      "title": "Urban Blaze Legacy: Belgian Chocolate",
+      "desc": "Men Low Top Sneakers",
+      "price": "₹2599",
+      "category": "sneaker"
+    }
+  ],
+  "men": [
+    {
+      "id": 1,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759570621_4035235.jpg?w=480&dpr=2",
+      "images": [
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759570621_4035235.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759570622_4035236.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759570623_4035237.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759570624_4035238.jpg?w=480&dpr=2"
+      ],
+      "title": "Iron Man: Indie Arc Reactor",
+      "desc": "Super Oversized T-Shirts",
+      "price": "₹1599",
+      "category": "tshirts"
+    },
+    {
+      "id": 2,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759554605_2258441.jpg?w=480&dpr=2",
+      "images": [
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759554605_2258441.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759554606_2258442.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759554607_2258443.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759554608_2258444.jpg?w=480&dpr=2"
+      ],
+      "title": "Urban Blaze Legacy: Belgian Chocolate",
+      "desc": "Men Low Top Sneakers",
+      "price": "₹2599",
+      "category": "footwear"
+    },
+    {
+      "id": 3,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759595763_7509683.jpg?w=480&dpr=2",
+      "images": [
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759595763_7509683.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759595764_7509684.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759595765_7509685.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759595766_7509686.jpg?w=480&dpr=2"
+      ],
+      "title": "Stranger Things: Upside Down Spray",
+      "desc": "Oversized T-Shirts",
+      "price": "₹899",
+      "category": "tshirts"
+    },
+    {
+      "id": 4,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759574390_4139767.jpg?w=480&dpr=2",
+      "images": [
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759574390_4139767.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759574391_4139768.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759574392_4139769.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759574393_4139770.jpg?w=480&dpr=2"
+      ],
+      "title": "Double-Layered Shirt: Blue Ivy",
+      "desc": "Oversized Shirts",
+      "price": "₹1499",
+      "category": "shirts"
+    },
+    {
+      "id": 5,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1750415838_4107800.jpg?w=480&dpr=2",
+      "images": [
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1750415838_4107800.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1750415839_4107801.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1750415840_4107802.jpg?w=480&dpr=2",
+        "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1750415841_4107803.jpg?w=480&dpr=2"
+      ],
+      "title": "Batman: Dark Knight Hoodie",
+      "desc": "Graphic Hoodies",
+      "price": "₹1999",
+      "category": "hoodies"
+    },
+    {
+      "id": 6,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1731664890_7766283.jpg?w=360&dpr=2",
+      "title": "TSS Originals: Dark Sapphire",
+      "desc": "Super Oversized T-Shirts",
+      "price": "₹1599",
+      "category": "footwear"
+    },
+    {
+      "id": 7,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759554605_2258441.jpg?w=360&dpr=1.3",
+      "title": "Urban Blaze Legacy: Belgian Chocolate",
+      "desc": "Men Low Top Sneakers",
+      "price": "₹2599",
+      "category": "footwear"
+    },
+    {
+      "id": 8,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1756476946_4773055.jpg?w=480&dpr=2",
+      "title": "TSS Originals: Trident",
+      "desc": "Oversized T-Shirts",
+      "price": "₹899",
+      "category": "tshirts"
+    },
+    {
+      "id": 9,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1743400291_3426634.jpg?w=480&dpr=2",
+      "title": "Cotton Linen: Bold Black",
+      "desc": "Oversized Shirts",
+      "price": "₹1499",
+      "category": "shirts"
+    },{
+      "id": 10,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1752663989_3450596.jpg?w=480&dpr=2",
+      "title": "Textured Stripes: Arctic White",
+      "desc": "Super Oversized T-Shirts",
+      "price": "₹1599",
+      "category": "tshirts"
+    },
+    {
+      "id": 11,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759554605_2258441.jpg?w=360&dpr=1.3",
+      "title": "Urban Blaze Legacy: Belgian Chocolate",
+      "desc": "Men Low Top Sneakers",
+      "price": "₹2599",
+      "category": "footwear"
+    },
+    {
+      "id": 12,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759595763_7509683.jpg?w=360&dpr=1.3",
+      "title": "Stranger Things: Upside Down Spray",
+      "desc": "Oversized T-Shirts",
+      "price": "₹899",
+      "category": "tshirts"
+    },
+    {
+      "id": 13,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759574390_4139767.jpg?w=360&dpr=1.3",
+      "title": "Double-Layered Shirt: Blue Ivy",
+      "desc": "Oversized Shirts",
+      "price": "₹1499",
+      "category": "shirts"
+    },{
+      "id": 15,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759570621_4035235.jpg?w=360&dpr=1.3",
+      "title": "Iron Man: Indie Arc Reactor",
+      "desc": "Super Oversized T-Shirts",
+      "price": "₹1599",
+      "category": "tshirts"
+    },
+    {
+      "id": 16,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759554605_2258441.jpg?w=360&dpr=1.3",
+      "title": "Urban Blaze Legacy: Belgian Chocolate",
+      "desc": "Men Low Top Sneakers",
+      "price": "₹2599",
+      "category": "footwear"
+    },
+    {
+      "id": 17,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759595763_7509683.jpg?w=360&dpr=1.3",
+      "title": "Stranger Things: Upside Down Spray",
+      "desc": "Oversized T-Shirts",
+      "price": "₹899",
+      "category": "tshirts"
+    },
+    {
+      "id": 18,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759574390_4139767.jpg?w=360&dpr=1.3",
+      "title": "Double-Layered Shirt: Blue Ivy",
+      "desc": "Oversized Shirts",
+      "price": "₹1499",
+      "category": "shirts"
+    }
+    ,{
+      "id":19 ,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759570621_4035235.jpg?w=360&dpr=1.3",
+      "title": "Iron Man: Indie Arc Reactor",
+      "desc": "Super Oversized T-Shirts",
+      "price": "₹1599",
+      "category": "tshirts"
+    }
+    
+  ],
+    "women":[{
+      "id": 6,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759903938_3969960.jpg?w=480&dpr=2",
+      "title": "Olive Fitted Shirt",
+      "desc": "Adjustable Caps",
+      "price": "₹799",
+      "category": "accessories"
+    },
+    {
+      "id": 7,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759819049_2772455.jpg?w=480&dpr=2",
+      "title": "Kung Fu Panda: Ramen Noodles",
+      "desc": "Ceramic Coffee Mugs",
+      "price": "₹499",
+      "category": "home"
+    },
+    {
+      "id": 8,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759735035_8537691.jpg?w=480&dpr=2",
+      "title": "Rosebud Fitted Shirt",
+      "desc": "Woolen Scarves",
+      "price": "₹699",
+      "category": "accessories"
+    },
+    {
+      "id": 9,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1731051820_3292886.jpg?w=480&dpr=2",
+      "title": "Iron Man: Mark 50 Action Figure",
+      "desc": "Collectible Figures",
+      "price": "₹2999",
+      "category": "collectibles"
+    },
+    {
+      "id": 10,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1745991512_5385492.jpg?w=480&dpr=2",
+      "title": "TSS Originals: Blooming",
+      "desc": "Metal Keychains",
+      "price": "₹399",
+      "category": "accessories"
+    },
+    {
+      "id": 11,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1710566581_9987007.jpg?w=480&dpr=2",
+      "title": "Tom And Jerry: New Year",
+      "desc": "Metal Keychains",
+      "price": "₹399",
+      "category": "accessories"
+    },
+    {
+      "id": 12,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1758868208_2224123.jpg?w=480&dpr=2",
+      "title": "Nomad: Obelisk",
+      "desc": "Metal Keychains",
+      "price": "₹399",
+      "category": "accessories"
+    },
+    {
+      "id": 13,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1749549902_3178845.jpg?w=480&dpr=2",
+      "title": "Plaid Shirt: Citron",
+      "desc": "Metal Keychains",
+      "price": "₹399",
+      "category": "accessories"
+    },
+    {
+      "id": 14,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1756878319_9504720.jpg?w=480&dpr=2",
+      "title": "Parachute Pants: Phantom",
+      "desc": "Metal Keychains",
+      "price": "₹399",
+      "category": "accessories"
+    }],
+    "sneaker":[{
+      "id": 11,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759133875_7049116.jpg?w=480&dpr=2",
+      "title": "Black Panther: Wakanda Forever",
+      "desc": "Desk Accessories",
+      "price": "₹599",
+      "category": "bags"
+    },
+    {
+      "id": 12,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1758604944_7926528.jpg?w=480&dpr=2",
+      "title": "Velocity: Cobalt",
+      "desc": "Cosplay Masks",
+      "price": "₹1299",
+      "category": "accessories"
+    },
+    {
+      "id": 13,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1754742095_2349587.jpg?w=480&dpr=2",
+      "title": "Hydros: Ghost",
+      "desc": "Stylish Backpacks",
+      "price": "₹1799",
+      "category": "bags"
+    },
+    {
+      "id": 14,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1758364800_1199182.jpg?w=480&dpr=2",
+      "title": "Hydros: Iron-Man",
+      "desc": "Decorative Wall Items",
+      "price": "₹2199",
+      "category": "decor"
+    },
+    {
+      "id": 15,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1758041336_1773728.jpg?w=480&dpr=2",
+      "title": "Souled: Cedar Rush",
+      "desc": "Fashion Accessories",
+      "price": "₹1499",
+      "category": "accessories"
+    },
+    {
+      "id": 16,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1745475547_4106929.jpg?w=480&dpr=2",
+      "title": "Urban Blaze: Athens",
+      "desc": "Stylish Backpacks",
+      "price": "₹1799",
+      "category": "bags"
+    }]
+}
